@@ -8,7 +8,7 @@
 - [**Workshop Goals and Format**](GoalsFormat.md)
 
 
-- [**Sign up for Collegeville 2021!**](Registration2021.md)
+- [**Sign up for Collegeville 2022!**](Registration2022.md)
 
 
 
