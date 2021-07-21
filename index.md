@@ -10,6 +10,6 @@
 
 - [**Sign up for Collegeville 2022!**](Registration2022.md)
 
-
+- [**Collegeville Workshop Series**](https://collegeville.github.io/Workshops/)
 
 - Contact: [Mike Heroux](https://maherou.github.io)
