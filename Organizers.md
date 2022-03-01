@@ -4,6 +4,7 @@
 - Hannah Cohoon, University of Texas at Austin
 - Anshu Dubey, Argonne National Laboratory
 - Daniel S. Katz, University of Illinois at Urbana-Champaign
+- Lois Curfman McInnes, Argonne National Laboratory
 - Pat Quillen, MathWorks, Inc.
 - Elaine Raybourn, Sandia National Laboratories
 - James Willenbring, Sandia National Laboratories
