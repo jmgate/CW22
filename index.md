@@ -1,6 +1,6 @@
 # Collegeville 2022 Home
 
-![](assets/Collegeville22WorkshopBanner.pdf)
+![](assets/Collegeville22WorkshopBanner.jpg)
 
 ### Details
 - [**About**](About.md)
