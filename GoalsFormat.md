@@ -4,7 +4,7 @@
 
 ### Goals
 
-The goal of this workshop is to bring together community leaders and practitioners in scientific software from academia, industry and labs for the purpose of identifying the challenges and priority research direction for improving teams for scientific software. We want to explore, characterize and articulate scientific software practices from industry, research labs and academia and identify common requirements and essential differences in these communities.
+The goal of this workshop is to bring together community leaders and practitioners in scientific software from academia, industry and labs for the purpose of identifying the challenges and priority research direction for improving the design of scientific software. We want to explore, characterize and articulate scientific software practices from industry, research labs and academia and identify common requirements and essential differences in these communities.
 
 We believe this workshop to be distinct in its efforts to bring academic, industry and lab community members to explore both the common and unique challenges of these communities.
 

@@ -1,12 +1,12 @@
 # Collegeville 2022 Home
 
-
+![](assets/Collegeville22WorkshopBanner.pdf)
 
 ### Details
 - [**About**](About.md)
 - [**Background**](Background.md)
 - [**Workshop Goals and Format**](GoalsFormat.md)
-
+- [**Organizers**](Organizers.md)
 
 - [**Sign up for Collegeville 2022!**](Registration2022.md)
 
