@@ -1,5 +1,5 @@
 
-## 2021 Collegeville Workshop Agenda, Thursday, July 22, 2021
+## 2021 Collegeville Workshop Agenda, Thursday, July 28, 2022
 
 [**Zoom Registration Information**]()
 
