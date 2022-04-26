@@ -18,7 +18,7 @@ The first workshop in 2019 focused on software sustainability.  The 2020 worksho
 
 ### Resources from Collegeville 2021
 
-Recordings and other artifacts from last year's workshop are available at the [Collegeville 2022 website](https://collegeville.github.io/CW22/WorkshopResources/Recordings/RecordingList.html)
+Recordings and other artifacts from last year's workshop are available at the [Collegeville 2021 website](https://collegeville.github.io/CW21/Resources.html)
 
 ### Contribute to Collegeville 2022
 
@@ -28,12 +28,12 @@ We welcome the following contributions:
 
 | Contribution| Submission Date | Description                                |
 |-------------|-----------------|--------------------------------------------|
-| White paper | June 18 | A brief document articulating impediments, challenges, opportunities or potential solutions to design for scientific software. **Note:** While details are still being worked out, we intend to invite select authors of white papers to expand their paper as a peer-reviewed article for a special issue of [_Computing in Science and Engineering (CiSE)_](https://www.computer.org/csdl/magazine/cs).  Details available soon. |
-| Recorded presentation | June 22 - July 9 | Selected from the submitted white papers, we will solicit speakers to record a brief presentation on their white paper content.  Recorded presentations will be available to attendees before the workshop. |
-| Teatime theme | July 1 |A topic related to software design for open discussion during teatime. If your teatime theme is accepted, you would facilitate a small group discussion on the theme during the July 20 – 22 workshop. |
-| Poster      |July 1  |A PDF or interactive webpage that will be the focus of small group discussion during teatime. If your poster is accepted, you would facilitate a small group discussion during the July 20 – 22 workshop.   |
-| Watch party | July 12 - 19 | During the week prior to the workshop, participants can host a watch party for one or more of the workshop video recordings. |
-| Panelist |  July 20 - 22 | Selected from the submitted white papers, we will solicit participants as panelists for a live discussion with Q&A.  |
+| White paper | June 24 | A brief document articulating impediments, challenges, opportunities or potential solutions to design of scientific software. **Note:** We have arranged for select authors of white papers to expand their paper as a peer-reviewed article for a special issue of [_Computing in Science and Engineering (CiSE)_](https://www.computer.org/csdl/magazine/cs).  Details available soon.|
+| Recorded presentation | June 24 - July 15 | We will accept short recorded presentations on content selected from some of the submitted white papers. If your white paper content would make a good presentation for the workshop, we will contact you to inquire if you are interested in this opportunity. |
+| Teatime theme | July 15 |A topic related to software design for open discussion during teatime. If your teatime theme is accepted, you would facilitate a small group discussion on the theme during the July 20 – 22 workshop. |
+| Poster        | July 15  |A PDF or interactive webpage that will be the focus of small group discussion during teatime. If your poster is accepted, you would facilitate a small group discussion during the July 20 – 22 workshop.   |
+| Watch party | July 15 - 22 | Participants can host a watch party for one or more of the workshop video recordings. Given the increasing number of recorded and available talks online, these watch parties can become regular occasions for sharing recent research and ideas, much like a reading group. More information on watch parties and their post-workshop sustenance is available on [this page](WorkshopResources/WatchParty/WatchPartyList.md). |
+| Panelists & Keynote |  July 26 - 28 | During the workshop dates of July 26 – 28, we will host a live keynote and plenary panel discussions with Q&A as the first events each day.  We are limited to just a few panelists and one keynote each day and will invite people based on their white paper submission and the diversity of viewpoint for the theme of the day.  We will contact panelist and keynote candidates to inquire if you are interested in this opportunity. The panel and keynote sessions will be recorded and available after the workshop. |
 
 
 #### Publication date: April 28, 2022

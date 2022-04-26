@@ -3,10 +3,6 @@
 
 [**Zoom Registration Information**]()
 
-### Pre-workshop watch parties
-
-See [this page](WorkshopResources/WatchParty/WatchPartyList.md) for the dates and times of pre-workshop watch parties, or set up one of your own!  
-
 | **Time (US CDT)**| **July 25** <br> [**Get Details**](Agenda-Day-0.md) | **July 26** <br> [**Get Details**](Agenda-Day-1.md) | **July 27** <br> [**Get Details**](Agenda-Day-2.md) | **July 28** <br> [**Get Details**](Agenda-Day-3.md) |
 |---|---|---|---|---|
 | 7:00-8:30 am | | Breakfast | Breakfast | Breakfast |
