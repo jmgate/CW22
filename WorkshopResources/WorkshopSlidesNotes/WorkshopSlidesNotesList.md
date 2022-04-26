@@ -1,11 +1,11 @@
-# 2021 Collegeville Workshop on Scientific Software Notes
+# 2022 Collegeville Workshop on Scientific Software Notes
 
 ## Panel Slides
 
-- Day 1 Panel: Opening Remarks, Software Teams Definitions and Challenges [Slides](CW21-OpeningRemarksPanel1.pdf)
-- Day 2 Panel: Technical Approaches to Improving Software Teams [Slides](CW21-Panel2.pdf) -- [Zoom Chat](Panel2ZoomChat.txt)
-- Day 3 Panel: Cultural Approaches to Improving Software Teams [Slides](CW21-Panel3.pdf) -- [Zoom Chat](Panel3ZoomChat.txt)
-- Day 3: Closing Remarks [Slides](CW21-ClosingRemarks.pdf)
+- Day 1 Panel: Opening Remarks, Software Teams Definitions and Challenges [Slides](CW22-OpeningRemarksPanel1.pdf)
+- Day 2 Panel: Technical Approaches to Improving Software Teams [Slides](CW22-Panel2.pdf) -- [Zoom Chat](Panel2ZoomChat.txt)
+- Day 3 Panel: Cultural Approaches to Improving Software Teams [Slides](CW22-Panel3.pdf) -- [Zoom Chat](Panel3ZoomChat.txt)
+- Day 3: Closing Remarks [Slides](CW22-ClosingRemarks.pdf)
 
 ## List of Discussion Notes:
 ### Day 1

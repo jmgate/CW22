@@ -1,11 +1,14 @@
-# 2021 Collegeville Workshop on Scientific Software Posters
+# 2022 Collegeville Workshop on Scientific Software Posters
 
-To edit this page, make a pull request for the [page source on GitHub](https://github.com/Collegeville/CW21/blob/master/WorkshopResources/Posters/PosterList.md)
+To edit this page, make a pull request for the [page source on GitHub](https://github.com/Collegeville/CW22/blob/master/WorkshopResources/Posters/PosterList.md)
 
-Add your poster information to the list.  If you are submitting a PDF file, please put the PDF in the same directory as this file.  If your poster is available as an interactive webpage, please provide the URL instead.
+1. Register your paper with Zenodo to obtain a URL.
+1. Add the author(s), title and DOI to the list below.
+
+**Note:** If you are uncertain about submitting a pull request, feel free to send your DOI to Mike Heroux <mheroux@csbsju.edu>
 
 ## List of posters:
-- [Lastname, Firstname: Title](file.pdf)
+- [Lastname, Firstname: Title](URL-of-DOI)
 
 
 #### [Back to Main Page](../../index.md)
