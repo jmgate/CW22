@@ -11,6 +11,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 ## List of papers:
 
-1. [Lastname, Firstname: Paper Title](URL-of-DOI)
+1. Sochat, Vanessa: [Ten Suggested Practices for Software Design](https://zenodo.org/record/6577797)
+2. [Lastname, Firstname: Paper Title](URL-of-DOI)
 
 #### [Back to Main Page](../../index.md)
