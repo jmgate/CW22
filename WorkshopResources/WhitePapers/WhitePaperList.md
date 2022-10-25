@@ -13,6 +13,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 1. Sochat, Vanessa: [Ten Suggested Practices for Software Design](https://zenodo.org/record/6577797)
 2. Munson, Todd: [Software Design and the PATH Preprocessor](https://zenodo.org/record/7062329)
-3. [Lastname, Firstname: Paper Title](URL-of-DOI)
+3. [Gates, Jason:  Using GitLab Issues for Iterative, Asynchronous Software Design](https://zenodo.org/record/7250115)
+4. [Lastname, Firstname: Paper Title](URL-of-DOI)
 
 #### [Back to Main Page](../../index.md)
